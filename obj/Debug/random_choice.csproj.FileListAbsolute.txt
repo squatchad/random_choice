@@ -1,0 +1,10 @@
+E:\projects\csharp\random_choice\random_choice\bin\Debug\random_game.exe.config
+E:\projects\csharp\random_choice\random_choice\bin\Debug\random_game.exe
+E:\projects\csharp\random_choice\random_choice\bin\Debug\random_game.pdb
+E:\projects\csharp\random_choice\random_choice\obj\Debug\random_choice.csprojAssemblyReference.cache
+E:\projects\csharp\random_choice\random_choice\obj\Debug\random_game.Form1.resources
+E:\projects\csharp\random_choice\random_choice\obj\Debug\random_game.Properties.Resources.resources
+E:\projects\csharp\random_choice\random_choice\obj\Debug\random_choice.csproj.GenerateResource.cache
+E:\projects\csharp\random_choice\random_choice\obj\Debug\random_choice.csproj.CoreCompileInputs.cache
+E:\projects\csharp\random_choice\random_choice\obj\Debug\random_game.exe
+E:\projects\csharp\random_choice\random_choice\obj\Debug\random_game.pdb
